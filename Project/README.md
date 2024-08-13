@@ -9,7 +9,7 @@ The dataset used in this project consists of two folders:
 - **clean**: Contains the clean MNIST images.
 - **aug**: Contains the augmented versions of the clean MNIST images.
 Download the dataset from the following link:
-[Download Dataset](https://drive.google.com/drive/u/0/search?q=DLA3)
+[Download Dataset](https://drive.google.com/file/d/1cCPO0A4YB0oGcuzmw3S7OTkpHKfUFkzR/view)
 
 ## Requirements
 - Python 3.x
